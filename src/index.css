@@ -59,3 +59,11 @@ button {
   padding: 0.5em;
   cursor: pointer;
 }
+.but {
+  color: green;
+  margin-left: 30%;
+  margin-top: 5%;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: 1px solid black;
+}
